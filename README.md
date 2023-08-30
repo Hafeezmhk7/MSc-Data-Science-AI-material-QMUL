@@ -1,3 +1,3 @@
 # MSc-Data-Science-AI-material-QMUL
 
-## The material is divide into two semesters
+## The material is divided into two semesters
